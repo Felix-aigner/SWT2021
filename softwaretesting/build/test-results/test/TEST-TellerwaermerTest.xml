@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TellerwaermerTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-06-01T17:08:49" hostname="DESKTOP-AVJJCBF" time="0.032">
+  <properties/>
+  <testcase name="OutlineAddPlate()" classname="TellerwaermerTest" time="0.026"/>
+  <testcase name="turnOffFilled()" classname="TellerwaermerTest" time="0.001"/>
+  <testcase name="turnOn()" classname="TellerwaermerTest" time="0.001"/>
+  <testcase name="turnOffMaxed()" classname="TellerwaermerTest" time="0.001"/>
+  <testcase name="OutlineTakePlate()" classname="TellerwaermerTest" time="0.001"/>
+  <testcase name="OutlineViewCheck()" classname="TellerwaermerTest" time="0.0"/>
+  <testcase name="turnEmptyOff()" classname="TellerwaermerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
